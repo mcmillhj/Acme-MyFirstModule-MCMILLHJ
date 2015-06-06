@@ -1,7 +1,7 @@
 package Acme::MyFirstModule::MCMILLHJ;
 
 use 5.006;
-use strict
+use strict;
 use warnings;
 
 =head1 NAME
